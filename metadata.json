@@ -1,0 +1,6 @@
+{
+  "name": "AimNexora Digital",
+  "description": "Premium enterprise-grade digital marketing agency website featuring dynamic lead generation, responsive interactive portfolio, advanced service portals, and a custom Gemini-powered AI marketing specialist chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
