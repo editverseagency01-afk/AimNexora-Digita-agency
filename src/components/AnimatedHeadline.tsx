@@ -45,13 +45,14 @@ export default function AnimatedHeadline({ id, className = "" }: AnimatedHeadlin
                   scale: 0.3,
                   rotate: startRotate,
                 }}
-                animate={{
+                whileInView={{
                   opacity: 1,
                   x: 0,
                   y: 0,
                   scale: 1,
                   rotate: 0,
                 }}
+                viewport={{ once: false }}
                 transition={{
                   type: "spring",
                   stiffness: 140,
